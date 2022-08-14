@@ -1,4 +1,4 @@
-# HiSpeed watchface for Watchy
+# HiSpeed Watchface for Watchy
 A sleek, modern watchface watchface for the Watchy platform.
 
 Features time, date, temperature and step count and battery. Weather hasn't been integrated.
